@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    color: rgb(236, 233, 233);
+
+}
+.column1{
+    width:20%;
+    float: left;
+    background-color: black;
+}
+.column2{
+    width:80%;
+    background-color:#1a1b1c;
+    float: right;
+    margin: 40px;
+}
+.menu1{
+    padding: 25px;
+    
+}
+.menu11{
+    padding: 10px;
+}
+.link{
+    color: whitesmoke;
+    margin:20px;
+    padding: 20px;
+    text-decoration-line: none;
+}
+.links{
+    color: whitesmoke;
+    margin:25px;
+    padding: 25px;
+    text-decoration-line: none;
+    text-align: center;
+    font-weight: bold;
+}
