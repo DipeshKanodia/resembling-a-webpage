@@ -5,12 +5,14 @@ body {
 }
 .column1{
     width:17%;
+    height:57vw;
     float: left;
     background-color: black;
     padding: 1.5%;
 }
 .column2{
     width:76%;
+    height:56vw;
     background-color:#1a1b1c;
     float: right;
     padding: 2%;
@@ -50,4 +52,19 @@ body {
 }
 .bar{
     display: flex;
+}
+.box2{
+    display: flex;
+}
+td,th{
+    border-bottom : 1px solid gray;
+    border-spacing: 4px;
+    padding: 5px;
+}
+.box3{
+    display:flex;
+    padding: 2%;
+}
+.play{
+    background-color: black;
 }
